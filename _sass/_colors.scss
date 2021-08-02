@@ -1,0 +1,87 @@
+$color-primary: #2e2e2e;
+$color-primary-dark: #0f0f0f;
+$color-primary-light: #6f6f6f;
+$color-muted: #f3f3f3;
+$color-pnm-red: #CE3704;
+$color-pnm-blue:#2386D2;
+$color-pnm-yellow: #feb938;
+$color-pnm-muted: #4d4d4d;
+
+// Others
+$color-secondary: #5bcfbf;
+$color-tertiary: #32b9bd;
+$color-accent-red: #cc3500;
+$color-accent-blue: #2184d0;
+$color-accent-yellow: #fcec18;
+
+.color-primary {
+    color: $color-primary;
+}
+
+.color-primary-dark {
+    color: $color-primary-dark;
+}
+
+.color-primary-light {
+    color: $color-primary-light;
+}
+
+.color-secondary {
+    color: $color-secondary;
+}
+
+.color-tertiary {
+    color: $color-tertiary;
+}
+
+.color-muted {
+    color: $color-muted;
+}
+
+.color-accent-red {
+    color: $color-accent-red;
+}
+
+.color-accent-blue {
+    color: $color-accent-blue;
+}
+
+.color-accent-yellow {
+    color: $color-accent-yellow;
+}
+
+.color-pnm-red {
+    color: $color-pnm-red;
+}
+
+.color-pnm-blue {
+    color: $color-pnm-blue;
+}
+
+.color-pnm-yellow {
+    color: $color-pnm-yellow;
+}
+
+.color-pnm-muted {
+    color: $color-pnm-muted;
+}
+
+.bg-color-pnm-red {
+    background-color: $color-pnm-red;
+}
+
+.bg-color-pnm-blue {
+    background-color: $color-pnm-blue;
+}
+
+.bg-color-pnm-yellow {
+    background-color: $color-pnm-yellow;
+}
+
+.bg-color-muted {
+    background-color: $color-muted;
+}
+
+.bg-color-primary-dark {
+    background-color: $color-primary-dark;
+}
