@@ -4,7 +4,7 @@ title: Code of Conduct
 description: full code of conduct for mapping events
 tags: mapathon, mapamore
 ---
-<h1 class="color-pnm-red">Code of Conduct</h1>
+<h1 class="color-pnm-blue mb-2">Code of Conduct</h1>
 
 ## Summary
 
