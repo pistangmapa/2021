@@ -7,7 +7,7 @@ image:
 <h1 class="color-pnm-blue mb-4">Pista ng Mapa 2021 Presentation Guidelines</h1>
 
 
-## ALL TALKS/PRESENTATIONS MUST BE PRE-RECORDED.
+## All talks and presentations must be pre-recorded.
 
 ## Topics
 
