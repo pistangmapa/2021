@@ -68,7 +68,7 @@ Kindly inform us if you do not wish for your presentations to be published or st
 
 |---------------------------------------|----------:|
 | **Opening of submissions**            |     August 10, 2021     |
-| **Deadline of submissions**           |     Septemnber 15, 2021    |
+| **Deadline of submissions**           |     September 15, 2021    |
 | **Community vote**                    |     September 2021    |
 | **Announcement of accepted presentations** &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; |     October 2021    |
 |   |   |
