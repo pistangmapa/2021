@@ -25,7 +25,9 @@ In 2019 August, the inaugural Pista ng Mapa (aka PnM19) was held in Dumaguete Ci
 
 PnM goes online! 
 
-We initially hoped this event is to be held in Cebu City in 2020 but due to the coronavirus spreading worldwide,  a lot of events were canceled because of the lockdowns and strict policies imposed by the Philippine government for safety. We organized 3 whole-day events in November 2020 using Jitsi as our video-conference and Youtube platform to engage 150 participants coming from different cities and provinces like Metro Manila, Batangas, Bicol Region, Davao, Cebu, Surigao, and more! 
+We initially hoped that this event was to be held in Cebu City in 2020 but due to the COVID-19 pandemic,  a lot of face-to-face events were canceled due the lockdowns and strict policies imposed by the Philippine government for safety. Not to be deterred, PnM pushed through with its first online conference. 
+
+We organized 3 whole-day events in November 2020 using Jitsi as our video-conference and Youtube platform to engage more than 150 participants coming from different cities and provinces like Metro Manila, Batangas, Bicol Region, Davao, Cebu, Surigao, and more! 
 
 The online conference was recorded and can still be watched today on Youtube. 
 
