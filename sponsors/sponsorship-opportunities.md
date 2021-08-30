@@ -5,7 +5,7 @@ description: Sharing is the essence of Pista. We are always looking for partners
 ---
 <h1 class="color-pnm-blue mb-4">Pista ng Mapa 2021 Sponsorship Opportunities</h1>
 
-Sharing is the essence of Pista. With the valuable support of our sponsors and partners, we are able to organize 
+Sharing is the essence of Pista. With the valuable support of our sponsors and partners, we are able to organize a free and open conference that fosters the growth of local and inclusive communities for Filipino open data, open source, and open mapping advocates, enthusiasts, and professionals. 
 
 ## Conference profile
 
