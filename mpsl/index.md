@@ -35,7 +35,7 @@ The entries will be judged according to the following criteria:
 
 ## Prize
 
-The winners will receive up to PhP 10,000.00 worth of prizes. They will also have reserved slots in the Pista ng Mapa 2021 conference as speakers in the lightning talk sessions where they can share their map with the community. Their submissions will also be showcased in the conference website and promitional materials
+The winners will receive up to PhP 10,000.00 worth of prizes. They will also have reserved slots in the Pista ng Mapa 2021 conference as speakers in the lightning talk sessions where they can share their map with the community. Their submissions will also be showcased in the conference website and promotional materials
 
 ## Timeline and deadlines
 
