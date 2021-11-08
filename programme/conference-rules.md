@@ -5,3 +5,4 @@ description: Pista ng Mapa 2020 is a free and open mapping conference in the Phi
 image:
 ---
 <h1 class="color-pnm-blue mb-4">Pista ng Mapa 2021 Conference Rules</h1>
+
