@@ -126,7 +126,7 @@ Joining the Pista means abiding by our [Code of Conduct]({{ site.baseurl}}/confe
                 <p class="small speaker">Niccolo Dejito (Thinking Machines)</p>
                 <p class="session-title"><strong>Diwata QGIS Browser: A QGIS plugin for browsing and loading Diwata-2 SMI products</strong></p>
                 <p class="small speaker">Cyrus Nikko Pante (GRASPED STAMINA4Space)</p>
-                <p class="session-title"><strong>nterpretable Poverty Mapping using Social Media Data, Satellite Images, and Open Geospatial Data</strong></p>
+                <p class="session-title"><strong>Interpretable Poverty Mapping using Social Media Data, Satellite Images, and Open Geospatial Data</strong></p>
                 <p class="small speaker">Chiara Ledesma (Thinking Machines)</p>
                 <p class="session-title"><strong>Message from DOST-ASTI</strong></p>
                 <p class="small speaker">Neyzielle Cadiz (DOST-ASTI)</p>
