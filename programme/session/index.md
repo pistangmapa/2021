@@ -158,7 +158,7 @@ Joining the Pista means abiding by our [Code of Conduct]({{ site.baseurl}}/confe
             <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=2021-11-16T05:00:00Z">13:00</a></td>
             <td id="session_#">
                 <p class="session-title"><strong>Opening remarks</strong></p>
-                <p class="small speaker">Pista ng Mapa 2021 Organizers</p>
+                <p class="small speaker">Dr. Czar Jakiri Sarmiento (Chair, UP Department of Geodetic Engineering)</p>
             </td>
         </tr>
         <tr>
