@@ -144,7 +144,7 @@ Joining the Pista means abiding by our [Code of Conduct]({{ site.baseurl}}/confe
 
 <br>
 
-<h2 id="pnm2102">Day 2 - November 16, 2020 (Workshops in Partnership with [PhilGEOS 2021](https://www.philgeos2021.com/))</h2>
+<h2 id="pnm2102">Day 2 - November 16, 2020 (Workshops in Partnership with <a href="https://www.philgeos2021.com/">PhilGEOS 2021</a>)</h2>
 
 <table class="programme-table py-4" id="pnm21-day2">
     <thead>
