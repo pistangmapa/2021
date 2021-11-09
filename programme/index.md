@@ -81,14 +81,14 @@ Joining the Pista means abiding by our [Code of Conduct]({{ site.baseurl}}/confe
                 <p class="session-header"><a href="{{ site.baseurl }}/programme/session/pnm210106"><em>Lightning talks 1</em></a></p>
                 <p class="session-title"><strong>Filipino YouthMappers' Growth and Distribution</strong></p>
                 <p class="small speaker">Feye Andal (YouthMappers)</p>
-                <p class="session-title"><strong>OSMaPaaralan: Status update</strong></p>
-                <p class="small speaker">Maning Sambale (OSM PH)</p>
+                <p class="session-title"><strong>Introduction to Pista ng Mapa Socials</strong></p>
+                <p class="small speaker">RK Aranas</p>
             </td>
         </tr>
         <tr class="break-time">
             <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=2021-11-13T07:30:00Z">15:30</a></td>
             <td>
-                <em>Break + Socials (gather.town) introduction</em>
+                <em>Break + Socials</em>
             </td>
         </tr>
         <tr>
@@ -279,7 +279,7 @@ Joining the Pista means abiding by our [Code of Conduct]({{ site.baseurl}}/confe
         <tr class="break-time">
             <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=2021-11-20T07:45:00Z">15:45</a></td>
             <td>
-                <em>Break</em>
+                <em>Break + Socials</em>
             </td>
         </tr>
         <tr>
