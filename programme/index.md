@@ -49,8 +49,8 @@ Joining the Pista means abiding by our [Code of Conduct]({{ site.baseurl}}/confe
         <tr>
             <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=2021-11-13T06:05:00Z">14:05</a></td>
             <td id="session_pnm210103">
-                <p class="session-title"><a href="{{ site.baseurl }}/programme/session/pnm210103"><strong>The State of the MapBeks 2021: <span class="session-subtitle">Our Wins, Challenges, and Next Steps!</span></strong></a></p>
-                <p class="small speaker">Jaffy Bustamante (Mapbeks)</p>
+                <p class="session-title"><a href="{{ site.baseurl }}/programme/session/pnm210103"><strong>UPRI - NOAH website, revamped!</strong></a></p>
+                <p class="small speaker">Jadurani Davalos (UP Resilience Institute / UP NOAH Center)</p>
             </td>
         </tr>
         <!-- <tr class="break-time">
@@ -216,8 +216,9 @@ Joining the Pista means abiding by our [Code of Conduct]({{ site.baseurl}}/confe
         <tr>
             <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=2021-11-20T05:10:00Z">13:10</a></td>
             <td id="session_pnm210301">
-                <p class="session-title"><a href="{{ site.baseurl }}/programme/session/pnm210301"><strong>UPRI - NOAH website, revamped!</strong></a></p>
-                <p class="small speaker">Jadurani Davalos (UP Resilience Institute / UP NOAH Center)</p>
+                <p class="session-title"><a href="{{ site.baseurl }}/programme/session/pnm210301">
+                <strong>The State of the MapBeks 2021: <span class="session-subtitle">Our Wins, Challenges, and Next Steps!</span></strong></a></p>
+                <p class="small speaker">Jaffy Bustamante (Mapbeks)</p>
             </td>
         </tr>
         <tr>
