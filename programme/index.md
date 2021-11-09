@@ -164,7 +164,7 @@ Joining the Pista means abiding by our [Code of Conduct]({{ site.baseurl}}/confe
         <tr>
             <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=2021-11-16T05:15:00Z">13:15</a></td>
             <td id="session_pnm210201">
-                <p class="sponsor-note"><em>Partner workshop: <a href="https://bnhr.xyz">BNHR</a></em></p>
+                <p class="sponsor-note"><em>Partner workshop: <a href="https://www.facebook.com/bnhr.xyz">BNHR</a></em></p>
                 <p class="session-title"><a href="{{ site.baseurl }}/programme/session/pnm210201"><strong>Level-up your QGIS skills<span class="session-subtitle">The QGIS Graphical Modeler, QGIS Atlas, Tips, and Tricks</span></strong></a></p>
                 <p class="small speaker">Ben Hur Pintor (BNHR)</p>
             </td>
@@ -172,9 +172,9 @@ Joining the Pista means abiding by our [Code of Conduct]({{ site.baseurl}}/confe
         <tr>
             <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=2021-11-16T07:00:00Z">15:00</a></td>
             <td id="session_pnm210202">
-                <p class="sponsor-note"><em>Partner workshop: <a href="https://philsa.gov.ph/">PhilSA</a></em></p>
+                <p class="sponsor-note"><em>Partner workshop: <a href="https://www.facebook.com/STAMINA4Space">STAMINA4Space</a></em></p>
                 <p class="session-title"><a href="{{ site.baseurl }}/programme/session/pnm210202"><strong>Cloud-native Geospatial</strong></a></p>
-                <p class="small speaker">RK Aranas (PhilSA)</p>
+                <p class="small speaker">RK Aranas (STAMINA4Space)</p>
             </td>
         </tr>
         <tr>
