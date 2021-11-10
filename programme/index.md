@@ -15,7 +15,7 @@ Pista ng Mapa is free and open for everyone. We will be holding our sessions via
 ## Code of Conduct
 Joining the Pista means abiding by our [Code of Conduct]({{ site.baseurl}}/conference/code-of-conduct).
 
-<h2 id="pnm2101">Day 1 - November 13, 2020 (Presentations)</h2>
+<h2 id="pnm2101">Day 1 - November 13, 2021 (Presentations)</h2>
 
 <table class="programme-table py-4" id="pnm21-day1">
     <thead>
@@ -144,7 +144,7 @@ Joining the Pista means abiding by our [Code of Conduct]({{ site.baseurl}}/confe
 
 <br>
 
-<h2 id="pnm2102">Day 2 - November 16, 2020 (Workshops in Partnership with <a href="https://www.philgeos2021.com/">PhilGEOS 2021</a>)</h2>
+<h2 id="pnm2102">Day 2 - November 16, 2021 (Workshops in Partnership with <a href="https://www.philgeos2021.com/">PhilGEOS 2021</a>)</h2>
 
 <table class="programme-table py-4" id="pnm21-day2">
     <thead>
@@ -197,7 +197,7 @@ Joining the Pista means abiding by our [Code of Conduct]({{ site.baseurl}}/confe
 
 <br>
 
-<h2 id="pnm2103">Day 3 - November 20, 2020 (Presentations)</h2>
+<h2 id="pnm2103">Day 3 - November 20, 2021 (Presentations)</h2>
 
 <table class="programme-table py-4" id="pnm21-day3">
     <thead>
