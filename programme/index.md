@@ -238,7 +238,7 @@ Joining the Pista means abiding by our [Code of Conduct]({{ site.baseurl}}/confe
         <tr>
             <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=2021-11-20T06:05:00Z">14:00</a></td>
             <td id="session_pnm210303">
-                <p class="session-title"><a href="{{ site.baseurl }}/programme/session/pnm210303"><strong>Nasaan si Apolaki?:<span class="session-subtitle">Finding Potential Solar Sites In the Philippines through Open Source </span></strong></a></p>
+                <p class="session-title"><a href="{{ site.baseurl }}/programme/session/pnm210303"><strong>Nasaan si Apolaki?:<span class="session-subtitle">Finding Potential Solar Sites In the Philippines through Open Source Collaboration</span></strong></a></p>
                 <p class="small speaker">Albert Yumol and Bryce Mercines (Omdena Philippines Chapter)</p>
             </td>
         </tr>
