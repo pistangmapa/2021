@@ -231,7 +231,7 @@ Joining the Pista means abiding by our [Code of Conduct]({{ site.baseurl}}/confe
         <tr>
             <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=2021-11-20T05:35:00Z">13:35</a></td>
             <td id="session_pnm210302">
-                <p class="session-title"><a href="{{ site.baseurl }}/programme/session/pnm210301"><strong>Participatory 3-Dimensional Mapping (P3DM) for Disaster Risk Reduction and Management</strong></a></p>
+                <p class="session-title"><a href="{{ site.baseurl }}/programme/session/pnm210302"><strong>Participatory 3-Dimensional Mapping (P3DM) for Disaster Risk Reduction and Management</strong></a></p>
                 <p class="small speaker">Emmanuel B. Garcia (UP Department of Geography / Philippine Geographical Society)</p>
             </td>
         </tr>
