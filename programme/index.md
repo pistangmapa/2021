@@ -49,8 +49,11 @@ Joining the Pista means abiding by our [Code of Conduct]({{ site.baseurl}}/confe
         <tr>
             <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=2021-11-13T06:05:00Z">14:05</a></td>
             <td id="session_pnm210103">
-                <p class="session-title"><a href="{{ site.baseurl }}/programme/session/pnm210103"><strong>UPRI - NOAH website, revamped!</strong></a></p>
-                <p class="small speaker">Jadurani Davalos (UP Resilience Institute / UP NOAH Center)</p>
+                <p class="session-title"><a href="{{ site.baseurl }}/programme/session/pnm210103">
+                <strong>Pista ng Mapa Socials</strong></a></p>
+                <p class="small speaker">RK Aranas</p>
+                <!-- <strong>UPRI - NOAH website, revamped!</strong></a></p>
+                <p class="small speaker">Jadurani Davalos (UP Resilience Institute / UP NOAH Center)</p> -->
             </td>
         </tr>
         <!-- <tr class="break-time">
@@ -81,8 +84,10 @@ Joining the Pista means abiding by our [Code of Conduct]({{ site.baseurl}}/confe
                 <p class="session-header"><a href="{{ site.baseurl }}/programme/session/pnm210106"><em>Lightning talks 1</em></a></p>
                 <p class="session-title"><strong>Filipino YouthMappers' Growth and Distribution</strong></p>
                 <p class="small speaker">Feye Andal (YouthMappers)</p>
-                <p class="session-title"><strong>Introduction to Pista ng Mapa Socials</strong></p>
-                <p class="small speaker">RK Aranas</p>
+                <!-- <p class="session-title"><strong>Pista ng Mapa Socials</strong></p>
+                <p class="small speaker">RK Aranas</p> -->
+                <p class="session-title"><strong>OSMaPaaralan: status update</strong></p>
+                <p class="small speaker">Eugene Alvin Villar (OSM PH)</p>
             </td>
         </tr>
         <tr class="break-time">
@@ -217,8 +222,10 @@ Joining the Pista means abiding by our [Code of Conduct]({{ site.baseurl}}/confe
             <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=2021-11-20T05:10:00Z">13:10</a></td>
             <td id="session_pnm210301">
                 <p class="session-title"><a href="{{ site.baseurl }}/programme/session/pnm210301">
-                <strong>The State of the MapBeks 2021: <span class="session-subtitle">Our Wins, Challenges, and Next Steps!</span></strong></a></p>
-                <p class="small speaker">Jaffy Bustamante (Mapbeks)</p>
+                <strong>UPRI - NOAH website, revamped!</strong></a></p>
+                <p class="small speaker">Jadurani Davalos (UP Resilience Institute / UP NOAH Center)</p>
+                <!-- <strong>The State of the MapBeks 2021: <span class="session-subtitle">Our Wins, Challenges, and Next Steps!</span></strong></a></p>
+                <p class="small speaker">Jaffy Bustamante (Mapbeks)</p> -->
             </td>
         </tr>
         <tr>
@@ -232,7 +239,7 @@ Joining the Pista means abiding by our [Code of Conduct]({{ site.baseurl}}/confe
             <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=2021-11-20T06:05:00Z">14:00</a></td>
             <td id="session_pnm210303">
                 <p class="session-title"><a href="{{ site.baseurl }}/programme/session/pnm210303"><strong>Nasaan si Apolaki?:<span class="session-subtitle">Finding Potential Solar Sites In the Philippines through Open Source </span></strong></a></p>
-                <p class="small speaker">Albert Yumol (Omdena Philippines Chapter)</p>
+                <p class="small speaker">Albert Yumol and Bryce Mercines (Omdena Philippines Chapter)</p>
             </td>
         </tr>
         <!-- <tr class="break-time">
