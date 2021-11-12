@@ -65,9 +65,9 @@ Joining the Pista means abiding by our [Code of Conduct]({{ site.baseurl}}/confe
         <tr>
             <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=2021-11-13T06:30:00Z">14:30</a></td>
             <td id="session_pnm210104">
-                <p class="sponsor-note"><em>Sponsor talk: <a href="https://www.facebook.com/openmapping.asiapacific">OpenMapping Hub</a></em></p>
-                <p class="session-title"><a href="{{ site.baseurl }}/programme/session/pnm210104"><strong>Message from OpenMapping Hub</strong></a></p>
-                <p class="small speaker">OpenMapping Hub</p>
+                <p class="sponsor-note"><em>Sponsor talk: <a href="https://www.facebook.com/openmapping.asiapacific">Open Mapping Hub</a></em></p>
+                <p class="session-title"><a href="{{ site.baseurl }}/programme/session/pnm210104"><strong>Message from Open Mapping Hub</strong></a></p>
+                <p class="small speaker">Open Mapping Hub</p>
             </td>
         </tr>
         <tr>
@@ -170,7 +170,7 @@ Joining the Pista means abiding by our [Code of Conduct]({{ site.baseurl}}/confe
             <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=2021-11-16T05:15:00Z">13:15</a></td>
             <td id="session_pnm210201">
                 <p class="sponsor-note"><em>Partner workshop: <a href="https://www.facebook.com/bnhr.xyz">BNHR</a></em></p>
-                <p class="session-title"><a href="{{ site.baseurl }}/programme/session/pnm210201"><strong>Level-up your QGIS skills<span class="session-subtitle">The QGIS Graphical Modeler, QGIS Atlas, Tips, and Tricks</span></strong></a></p>
+                <p class="session-title"><a href="{{ site.baseurl }}/programme/session/pnm210201"><strong>Level-up your QGIS skills</strong></a></p>
                 <p class="small speaker">Ben Hur Pintor (BNHR)</p>
             </td>
         </tr>
@@ -185,9 +185,9 @@ Joining the Pista means abiding by our [Code of Conduct]({{ site.baseurl}}/confe
         <tr>
             <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=2021-11-16T08:45:00Z">16:45</a></td>
             <td id="session_pnm210203">
-                <p class="sponsor-note"><em>Partner workshop: <a href="https://www.facebook.com/openmapping.asiapacific">OpenMapping Hub</a></em></p>
+                <p class="sponsor-note"><em>Partner workshop: <a href="https://www.facebook.com/openmapping.asiapacific">Open Mapping Hub</a></em></p>
                 <p class="session-title"><a href="{{ site.baseurl }}/programme/session/pnm210203"><strong>Introduction to OpenStreetMap</strong></a></p>
-                <p class="small speaker">Mikko Tamura (HOTOSM)</p>
+                <p class="small speaker">Mikko Tamura (Open Mapping Hub - Asia Pacific)</p>
             </td>
         </tr>
         <tr>
@@ -279,9 +279,9 @@ Joining the Pista means abiding by our [Code of Conduct]({{ site.baseurl}}/confe
         <tr>
             <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=2021-11-20T07:30:00Z">15:30</a></td>
             <td id="session_pnm210307">
-                <p class="sponsor-note"><em>Sponsor talk: <a href="https://www.mapillary.com/">Mapillary</a></em></p>
-                <p class="session-title"><a href="{{ site.baseurl }}/programme/session/pnm210306"><strong>Message from Mapillary</strong></a></p>
-                <p class="small speaker">Mapillary</p>
+                <p class="sponsor-note"><em>Sponsor talk: <a href="https://www.facebook.com/">Facebook</a></em></p>
+                <p class="session-title"><a href="{{ site.baseurl }}/programme/session/pnm210306"><strong>Message from Facebook</strong></a></p>
+                <p class="small speaker">Facebook</p>
             </td>
         </tr>
         <tr class="break-time">
