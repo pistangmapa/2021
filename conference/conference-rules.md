@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Pista ng Mapa 2021 Conference Session Rules
+title: Pista ng Mapa 2021 Conference Rules
 description: Pista ng Mapa 2020 is a free and open mapping conference in the Philippines
 image:
 ---
