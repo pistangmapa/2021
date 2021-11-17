@@ -277,7 +277,7 @@ Joining the Pista means abiding by our [Code of Conduct]({{ site.baseurl}}/confe
             </td>
         </tr>
         <tr>
-            <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=2021-11-20T07:30:00Z">15:30</a></td>
+            <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=2021-11-20T07:20:00Z">15:20</a></td>
             <td id="session_pnm210306">
                 <p class="sponsor-note"><em>Sponsor talk: <a href="https://www.grab.com/ph/">GrabPH</a></em></p>
                 <p class="session-title"><a href="{{ site.baseurl }}/programme/session/pnm210306"><strong>Message from GrabPH</strong></a></p>
@@ -285,7 +285,7 @@ Joining the Pista means abiding by our [Code of Conduct]({{ site.baseurl}}/confe
             </td>
         </tr>
         <tr>
-            <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=2021-11-20T07:40:00Z">15:40</a></td>
+            <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=2021-11-20T07:30:00Z">15:30</a></td>
             <td id="session_pnm210307">
                 <p class="sponsor-note"><em>Sponsor talk: <a href="https://www.facebook.com/">Facebook</a></em></p>
                 <p class="session-title"><a href="{{ site.baseurl }}/programme/session/pnm210306"><strong>Message from Facebook</strong></a></p>
@@ -293,7 +293,7 @@ Joining the Pista means abiding by our [Code of Conduct]({{ site.baseurl}}/confe
             </td>
         </tr>
         <tr class="break-time">
-            <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=2021-11-20T07:50:00Z">15:50</a></td>
+            <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=2021-11-20T07:45:00Z">15:45</a></td>
             <td>
                 <em>Break + Socials</em>
             </td>
