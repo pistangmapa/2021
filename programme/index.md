@@ -263,9 +263,15 @@ Joining the Pista means abiding by our [Code of Conduct]({{ site.baseurl}}/confe
         <tr>
             <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=2021-11-20T07:00:00Z">15:00</a></td>
             <td id="session_pnm210305">
-                <p class="session-header"><a href="{{ site.baseurl }}/programme/session/pnm210305"><em>Lightning talks 4 - MPSL</em></a></p>
-                <p class="session-title"><strong>Mapa Para sa Lahat 2021</strong></p>
-                <p class="small speaker">MPSL winners</p>
+                <p class="session-header"><a href="{{ site.baseurl }}/programme/session/pnm210305"><em>Lightning talks 4 - MPSL winners</em></a></p>
+                <p class="session-title"><strong>Philippines at Night: Erasure Through Light and Dark</strong></p>
+                <p class="small speaker">Arvin Jake A. Adovo (1st Place, Student Track)</p>
+                <p class="session-title"><strong>Mount Hamiguitan Range Wildlife Sanctuary</strong></p>
+                <p class="small speaker">Jo Hannah Asetre (1st Place, Professional/Postgrad Track)</p>
+                <p class="session-title"><strong>Smellscape Escolta</strong></p>
+                <p class="small speaker">Bryan Joel Mariano (2nd Place, Professional/Postgrad Track)</p>
+                <p class="session-title"><strong>Isla ng Necros/Necros Islandg</strong></p>
+                <p class="small speaker">Leonardo Miguel Garcia (3rd Place, Professional/Postgrad Track)</p>
             </td>
         </tr>
         <tr>
@@ -321,12 +327,12 @@ Joining the Pista means abiding by our [Code of Conduct]({{ site.baseurl}}/confe
             <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=2021-11-20T09:15:00Z">17:15</a></td>
             <td id="session_pnm210311">
                 <p class="session-header"><a href="{{ site.baseurl }}/programme/session/pnm210311"><em>Lightning talks 5</em></a></p>
-                <p class="session-title"><strong>Land-use History of Urban Wetlands in Davao City</strong></p>
-                <p class="small speaker">Lemuel Manalo (Environmental Planner, Program Coordinator of IDIS)</p>
-                <p class="session-title"><strong>Supervised Simple and Basic Crop Mapping using SNAP </strong></p>
-                <p class="small speaker">Xyza Vasily Dela Pena (University of Pecs)</p>
-                <p class="session-title"><strong>Mapping as on-the-job training in the midst of the pandemic </strong></p>
-                <p class="small speaker">Bertrand Aldous Santillan (Tarlac State University)</p>
+                <p class="session-title"><strong>The State of the MapBeks 2021: Our Wins, Challenges, and Next Steps!</strong></p>
+                <p class="small speaker">Jaffy Bustamante (Mapbeks)</p>
+                <p class="session-title"><strong>An Alternative Healing and Arboreal Heritage Project with the Tabaco City LGU</strong></p>
+                <p class="small speaker">Geography 192 Field Class (University of the Philippines)</p>
+                <p class="session-title"><strong>Enjoying and Connecting with our Pacific Family through Mapmaking</strong></p>
+                <p class="small speaker">David Garcia (Mapmaker)</p>
             </td>
         </tr>
         <tr>
