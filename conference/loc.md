@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Pista ng Mapa 2021 Organizing Committee
-description: full code of conduct for mapping events
+description: There would be no Pista without the hardwork and dedication of our Organizers and Volunteers!
 ---
 <h1 class="color-pnm-blue mb-2">Pista ng Mapa 2021 Organizing Committee</h1>
 
