@@ -287,9 +287,9 @@ Joining the Pista means abiding by our [Code of Conduct]({{ site.baseurl}}/confe
         <tr>
             <td><a href="https://www.timeanddate.com/worldclock/fixedtime.html?iso=2021-11-20T07:30:00Z">15:30</a></td>
             <td id="session_pnm210307">
-                <p class="sponsor-note"><em>Sponsor talk: <a href="https://www.facebook.com/">Facebook by Meta</a></em></p>
-                <p class="session-title"><a href="{{ site.baseurl }}/programme/session/pnm210306"><strong>Message from Facebook</strong></a></p>
-                <p class="small speaker">Facebook</p>
+                <p class="sponsor-note"><em>Sponsor talk: <a href="https://www.facebook.com/">Meta</a></em></p>
+                <p class="session-title"><a href="{{ site.baseurl }}/programme/session/pnm210306"><strong>Message from Meta</strong></a></p>
+                <p class="small speaker">Meta</p>
             </td>
         </tr>
         <tr class="break-time">
