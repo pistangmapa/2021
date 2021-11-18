@@ -268,7 +268,7 @@ Joining the Pista means abiding by our [Code of Conduct]({{ site.baseurl}}/confe
                 <p class="small speaker">Jo Hannah Asetre (1st Place, Professional/Postgrad Track)</p>
                 <p class="session-title"><strong>Smellscape Escolta</strong></p>
                 <p class="small speaker">Bryan Joel Mariano (2nd Place, Professional/Postgrad Track)</p>
-                <p class="session-title"><strong>Isla ng Necros/Necros Islandg</strong></p>
+                <p class="session-title"><strong>Isla ng Necros/Necros Island</strong></p>
                 <p class="small speaker">Leonardo Miguel Garcia (3rd Place, Professional/Postgrad Track)</p>
                 <p class="session-title"><strong>Philippines at Night: Erasure Through Light and Dark</strong></p>
                 <p class="small speaker">Arvin Jake A. Adovo (1st Place, Student Track)</p>
