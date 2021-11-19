@@ -111,7 +111,7 @@ likes coffee, mapping, and playing games!
 <div class="row mb-4">
 <div><img class="img-fluid post-img mb-2 col-lg-4 col-sm-12" style="max-width:240px; width:100%" src="{{ site.baseurl }}/assets/img/loc/levin.png" alt=""></div>
 <div class="col-lg-8 col-sm-12">
-<h3>Ben Hur</h3>
+<h3>Levin</h3>
 <a class="color-primary" alt="Facebook" href="https://facebook.com/levdaran"><i class="fab fa-facebook my-2 ml-1 mr-1"></i></a>
 <br>
 <small class="mb-4"><i>FINANCE COMMITTEE</i><br>
